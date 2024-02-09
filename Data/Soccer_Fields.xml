@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Soccer Fields maintained by Seattle Parks and Recreation.This hosted feature layer is published with the following definition query on the DPR.AthleticsFields feature class: WHERE SOCCER &amp;gt; 0Refresh Cycle: WeeklyFeature Class: DPR.AthleticsFields</abstract>
+            <purpose>Soccer Fields</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Soccer</themekey>
+                <themekey>Fields</themekey>
+                <themekey>SPR</themekey>
+                <themekey>Parks</themekey>
+                <themekey>Sports</themekey>
+                <themekey>Common Data Layers</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The City of Seattle makes no representation or warranty as to its accuracy, and in particular, its accuracy as to labeling, dimensions, contours, property boundaries, or placement or location of any map feature thereof.</useconst>
+        <datacred>City of Seattle, Seattle Parks and Recreation</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
