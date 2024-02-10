@@ -4,7 +4,7 @@ Web Map Link:http://127.0.0.1:5500/index.html
 
 ## Tile 1: Modified Basemap
 <img width="1440" alt="截屏2024-02-09 下午3 20 07" src="https://github.com/zyhleohao/Map-Design-and-Tile-Generation/assets/129431505/cfaf20ab-08bb-477f-a33c-5d4778d4fb21">
-- Description of Tile: Modified basemap that changes the color of the water.
+-Description of Tile: Modified basemap that changes the color of the water.
 - Geographic Area of Focus: Seattle Washington and neighboring cities
 - Zoom Levels: 3 - 14
 
