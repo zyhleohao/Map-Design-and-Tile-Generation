@@ -22,6 +22,6 @@ Web Map Link:http://127.0.0.1:5500/index.html
 
 ## Tile 4: Theme Map(Soccer Theme)
 <img width="1440" alt="截屏2024-02-09 下午3 21 41" src="https://github.com/zyhleohao/Map-Design-and-Tile-Generation/assets/129431505/b28d953e-c141-47c6-a74b-1a1c1ec66935">
-- Description of Tile: A base map that has the theme of soccer.
+- Description of Tile: A base map that has the theme of soccer. The land and front are in the color of a soccer field - light green and dark green; The road and water are in the color of a soccer ball - black and white.
 - Geographic Area of Focus: Seattle Washington and neighboring cities
 - Zoom Levels: 3 - 14
