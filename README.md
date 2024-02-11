@@ -28,4 +28,4 @@ Web Map Link:http://127.0.0.1:5500/index.html
 
 - Description of Tile: A base map that has the theme of soccer. The land and front are in the color of a soccer field - light green and dark green; The road and water are in the color of a soccer ball - black and white.
 - Geographic Area of Focus: Seattle Washington and neighboring cities
-- Zoom Levels: 3 - 14 
+- Zoom Levels: 3 - 14
